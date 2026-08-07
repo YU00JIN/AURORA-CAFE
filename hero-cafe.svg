@@ -1,0 +1,24 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#F6E7D8"/>
+  <rect x="70" y="90" width="1060" height="720" rx="36" fill="url(#bg)"/>
+  <rect x="170" y="180" width="860" height="520" rx="34" fill="#FFF8F0"/>
+  <rect x="220" y="240" width="320" height="210" rx="24" fill="#C68648"/>
+  <rect x="570" y="240" width="250" height="260" rx="24" fill="#E6B476"/>
+  <rect x="850" y="240" width="120" height="260" rx="24" fill="#8E5631"/>
+  <rect x="220" y="490" width="560" height="170" rx="24" fill="#F1D9BB"/>
+  <rect x="810" y="440" width="140" height="220" rx="24" fill="#64412A"/>
+  <rect x="250" y="520" width="180" height="70" rx="16" fill="#4F2F1D"/>
+  <rect x="470" y="520" width="180" height="70" rx="16" fill="#6E3F23"/>
+  <rect x="680" y="520" width="120" height="70" rx="16" fill="#8F562B"/>
+  <path d="M280 390C280 330 328 282 388 282H442C502 282 550 330 550 390V420H280V390Z" fill="#6F3F21"/>
+  <path d="M295 375C295 334 327 302 368 302H408C449 302 481 334 481 375V395H295V375Z" fill="#F7E5D2"/>
+  <circle cx="900" cy="620" r="110" fill="#EAB36C" fill-opacity="0.22"/>
+  <path d="M770 590C770 548 801 517 843 517H902C944 517 975 548 975 590V625H770V590Z" fill="#A36A3D"/>
+  <rect x="788" y="625" width="172" height="18" rx="9" fill="#7A4725"/>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="90" x2="1000" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EE"/>
+      <stop offset="1" stop-color="#EFC88D"/>
+    </linearGradient>
+  </defs>
+</svg>
